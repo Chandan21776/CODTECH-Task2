@@ -7,6 +7,8 @@ Mentor: Neela Santhosh Kumar
 
 
 OVERVIEW OF THE PROJECT
+![Screenshot 2024-07-31 044137](https://github.com/user-attachments/assets/3e75249c-d90c-4ccf-8228-0ef3ebc4cb54)
+
 PROJECT: Weather Forcast App
 
 Objective:
